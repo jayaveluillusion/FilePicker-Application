@@ -23,6 +23,9 @@
     /*
        Filepicker.io configuration (optional)
      */
+    
+    
+    
 
     // [FPConfig sharedInstance].appSecretKey = @"SET_FILEPICKER.IO_APPSECRETKEY_HERE";
     // [FPConfig sharedInstance].storeAccess = @"private";
